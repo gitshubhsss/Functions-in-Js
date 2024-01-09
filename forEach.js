@@ -5,5 +5,5 @@
 let arr = ["pune", "delhi", "mumbai"];
 
 arr.forEach((value, index) => {
-  console.log(value, index, arr);
+  console.log(value, index);
 });
